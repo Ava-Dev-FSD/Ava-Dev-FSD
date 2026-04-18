@@ -29,7 +29,5 @@ Full stack developer
 
 ### 📫 Contact
 <p>
-  <a href="https://discord.com/users/avaplaysss">
-    <img src="https://img.shields.io/badge/Discord-avaplaysss-000?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-avaplaysss-000?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
