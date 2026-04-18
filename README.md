@@ -29,22 +29,7 @@ Full stack developer
 
 ### 📫 Contact
 <p>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/avaplaysss">
+    <img src="https://img.shields.io/badge/Discord-avaplaysss-000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ava-Dev-FSD&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ava-Dev-FSD&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ava-Dev-FSD&layout=compact&theme=tokyonight" />
 </p>
