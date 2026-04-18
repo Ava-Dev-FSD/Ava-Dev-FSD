@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">hey, i'm Ava 👋</h1>
+<p align="center">full stack developer from denmark 🇩🇰</p>
 
-<!--
-**Ava-Dev-FSD/Ava-Dev-FSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### about
+i’m 20 and mainly work on web stuff  
+trying to get better at building solid, scalable apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### tech
+js • ts • react • node • html • css • postgres
+
+---
+
+### working on
+- full stack projects
+- backend structure & performance
+
+---
+
+### links
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/discord-111?style=flat&logo=discord&logoColor=white" />
+</a>
+
+---
+
+### stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ava-Dev-FSD&show_icons=true&theme=default" />
+</p>
